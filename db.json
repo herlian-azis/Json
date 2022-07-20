@@ -1,3 +1,10 @@
 {
-    "Nama":"baju"
-}
+    "list": [
+      { "Nama": "baju", "harga": 10000 },
+      { "Nama": "celana", "harga": 20000 },
+      { "Nama": "mainan", "harga": 550000 }
+    ],
+    "detail": {
+      "name": "typicode"
+    }
+  }
